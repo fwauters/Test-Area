@@ -6,7 +6,7 @@
 
 1. some stuff
 2. somme more stuff
-3. a unicorn
-  - can I
-  - do this
+3. can I:
+  1. do
+  2. this
 4. ?
