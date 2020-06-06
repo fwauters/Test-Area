@@ -4,9 +4,9 @@
 
 ## [Title coming soon]
 
-1. some stuff
-2. somme more stuff
-3. can I:
+- some stuff
+- somme more stuff
+- can I:
   - do
   - this
-4. ?
+- ?
