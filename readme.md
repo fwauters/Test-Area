@@ -7,6 +7,6 @@
 1. some stuff
 2. somme more stuff
 3. can I:
-  1. do
-  2. this
+  - do
+  - this
 4. ?
