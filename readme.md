@@ -1,6 +1,6 @@
 # Welcome in my Test Area !
 
-*This repo is ment for me to practice code and test some stuff*
+*This repo is meant for me to practice code and test some stuff*
 
 ## [Title coming soon]
 
